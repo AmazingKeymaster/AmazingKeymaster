@@ -1,27 +1,39 @@
 <div align="center">
 
-<h1>Haiiii! , I'm AmazingKeymaster</h1> <p>Welcome to my GitHub profile Visitor!</p>
+<img src="https://media.tenor.com/SFOALHJN5qEAAAAM/hi-hello.gif" width="220px"/>
 
-<!-- This is where your metrics will appear -->
+<h1>Haiiii, I'm AmazingKeymaster</h1>
 
-<img src="github-metrics.svg" alt="Metrics" width="100%">
+<p>
+I build things, I break things, and sometimes I stream the process.<br/>
+If it's code, tech, or anything that goes beep, I'm probably messing with it.
+</p>
 
-</div>
+<!-- Socials -->
+<p>
+  <a href="https://x.com/AmazinKeymaster">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/amazingkeymaster">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white" />
+  </a>
+  <a href="https://amazingkeymaster.github.io">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
+<h3>About Me</h3>
 
-<h3>Connect with me!</h3>
+<p align="center">
+• I Write code that sometimes behaves<br/>
+• I Build random tools because I got curious<br/>
+• I like to play Minecraft and project sekai<br/>
+</p>
 
-<a href="https://x.com/AmazinKeymaster" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="X (Twitter)"/>
-</a>
+<h3>Stats & Stuff</h3>
+<img src="github-metrics.svg" width="100%" alt="Metrics"/>
 
-<a href="https://www.twitch.tv/amazingkeymaster" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitch-9146FF%3Fstyle%3Dfor-the-badge%26logo%3Dtwitch%26logoColor%3Dwhite" alt="Twitch"/>
-</a>
+<img src="https://i.imgur.com/TknrUt4.gif" width="300px"/>
 
-<a href="https://www.google.com/search?q=https://amazingkeymaster.github.io" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Maiiiii_website!-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Website"/>
-</a>
 
 </div>
