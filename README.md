@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/SFOALHJN5qEAAAAM/hi-hello.gif" width="220px"/>
+<img src="https://i.imgur.com/fRkVAhk.gif" width="220px"/>
 
 <h1>Haiiii, I'm AmazingKeymaster</h1>
 
